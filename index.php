@@ -1,6 +1,7 @@
 <html>
     <head>
         <title> SIIT CHAT BOT</title>
+        <link rel="shortcut icon" href="favicon.ico">
         <style>
             body {
               background-image: url('siitWebsite.png');
