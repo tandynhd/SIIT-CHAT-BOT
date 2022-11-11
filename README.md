@@ -1,6 +1,9 @@
 # SIIT-CHAT-BOT
 
 Link to the mockup website: https://siitchatbot.herokuapp.com/
+Link to the facebook page: https://www.facebook.com/siitchatbot
+Add SIIT CHAT BOT on Line by scannning the following QR:
+![](QRCodeLine.png)
 
 This is just a mockup version of SIIT's website, that we designed to showcase how our chabot would look when integrated with the actual website (which we do not have access to).
 
