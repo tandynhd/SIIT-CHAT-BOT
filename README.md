@@ -8,4 +8,4 @@ Users can play around with the messenger plugin on the bottom right of the websi
 
 ![](MockupSIITWebsite.png)
 
-Since this is project is completely based on the cloud (Dialogflow, Facebook, Line, Heroku) we have very minimal code that can be uploaded onto Github. This is however more of a pro than a con as having most of our application on the cloud allows us to access it from anywhere without having to install anything.
+Since this project is completely based on the cloud (Dialogflow, Facebook, Line, Heroku) we have very minimal code that can be uploaded onto Github. This is however more of a pro than a con as having most of our application on the cloud allows us to access it from anywhere without having to install anything.
